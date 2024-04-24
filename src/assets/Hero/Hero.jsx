@@ -161,14 +161,14 @@ const Hero = () => {
           <div className="herobox">
             <div className="hero-year">
               <h1>
-                {" "}
+               
                 <span> {validatedYear}</span> years
               </h1>
             </div>
 
             <div className="hero-month">
               <h1>
-                {" "}
+              
                 <span> {validatedMonth}</span> months
               </h1>
             </div>

@@ -101,11 +101,56 @@ form .hero-details .hero-container {
   border-color: blueviolet;
 }
 
- @media(max-width:490px){
-  .hero-container label, .hero-container input {
-    padding: 4px;
-    margin: 8px
+
+@media (max-width:520px){
+  .hero{
+    height: 75vh;
+    width: 90%;
+    margin-left: 2rem;
 
   }
-}  
+}
+@media (max-width:520px){
+  .hero-container label{
+    padding-left: 20px;
+    font-size: 0.9rem;
+  }
+}
+
+@media (max-width:520px){
+  .hero-container input{
+    padding-left: 16px;
+    width: 120%;
+  }
+}
+
+
+@media (max-width:520px){
+  .hero-line{
+    position: relative;
+    width: 125%;
+    margin-top: 3rem;
+  }
+}
+
+@media (max-width:520px){
+  .hero-line img{
+    position:absolute;
+    top: 50%;
+    left: 37%;
+  }
+}
+
+@media (max-width:520px){
+  .herobox{
+    margin-top: 6rem;
+  }
+}
+
+@media (max-width:520px){
+  .herobox  span, h1{
+    font-size: 40px;
+    font-weight: 1000;
+  }
+  }
 
