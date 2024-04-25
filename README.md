@@ -37,8 +37,8 @@ Currently, two official plugins are available:
 
 
 
-𝗘𝘅𝗮𝗺𝗽𝗹𝗲
 ![Example Image](readme.PNG)
+Exa𝗺𝗽𝗹𝗲
  import React from "react";
 import Edit from "assets/Edit/Edit";
 
