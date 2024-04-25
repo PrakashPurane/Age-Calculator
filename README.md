@@ -37,7 +37,8 @@ Currently, two official plugins are available:
 
 
 
-𝗘𝘅𝗮![Example Image](readme.PNG)𝗺𝗽𝗹𝗲
+𝗘𝘅𝗮𝗺𝗽𝗹𝗲
+![Example Image](readme.PNG)
  import React from "react";
 import Edit from "assets/Edit/Edit";
 
