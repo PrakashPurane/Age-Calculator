@@ -66,7 +66,7 @@ export default App;
 
 
 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁
- If you want to contribute to the development of the Assets Component, you can fork the repository from GitHub and submit pull requests.
+ If you want to contribute to the development of the Assets Component, you can fork the repository from GitHub ( https://github.com/PrakashPurane/Age-Calculator ) and submit pull requests.
 
 
 
